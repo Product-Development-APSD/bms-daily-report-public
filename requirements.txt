@@ -1,0 +1,12 @@
+dash
+plotly
+matplotlib
+seaborn
+io
+base64
+locale
+pandas
+numpy
+math
+datetime
+requests
